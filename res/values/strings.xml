@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PaperPie</string>
+    <string name="action_settings">Settings</string>
+    <string name="username">Usuário</string>
+    <string name="password">Senha</string>
+    <string name="submit">Entrar</string>
+    <string name="todo">Agendamentos:</string>
+    <string name="btn_agenda">Ver Agenda</string>
+    <string name="btn_aval">Realizar Avaliacao</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_agenda">AgendaActivity</string>
+    <string name="title_activity_atividade">AtividadeActivity</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+</resources>
